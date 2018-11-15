@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Manual Colorization/Form1.cs) (VB: [Form1.vb](./VB/Manual Colorization/Form1.vb))
+* [Program.cs](./CS/Manual Colorization/Program.cs) (VB: [Program.vb](./VB/Manual Colorization/Program.vb))
+<!-- default file list end -->
 # How to color manually added shapes using the choropleth colorizer
 
 
